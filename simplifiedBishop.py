@@ -141,7 +141,7 @@ sumWsinAlpha = np.sum(wsinAlpha)
 l = np.sqrt(alphaX**2 + alphaY**2)
 cl =  c * l#col 7
 
-F = 1
+F = 0
 Fnew = 5
 tolerance = 0.005
 
